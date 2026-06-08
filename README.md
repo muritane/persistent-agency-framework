@@ -6,25 +6,31 @@
 
 # Abstract
 
-The universe contains possible futures.
+The universe contains many possible futures.
 
-Not all futures are reachable.
+Physical law constrains which futures can be reached.
 
-Not all reachable futures are viable.
+Among reachable futures, only some remain viable.
 
-Persistent systems maintain access to viable futures through observation, prediction, control, and adaptation.
+A persistent system is any process that maintains its existence through time by preserving access to viable futures.
 
-Organisms, organizations, technologies, institutions, and civilizations are not fundamentally objects.
+Organisms, minds, organizations, technologies, institutions, and civilizations are not fundamentally objects.
 
 They are persistent control processes operating within constrained possibility spaces.
 
 Information reduces uncertainty about future trajectories.
 
-Control alters future trajectories.
+Prediction estimates future trajectories.
 
-Viability measures continued access to viable futures.
+Control influences future trajectories.
 
-Complexity accumulates when persistent systems preserve viability while expanding the diversity and quantity of viable futures available to themselves and their descendants.
+Viability measures continued access to future persistence.
+
+Complexity accumulates when persistent systems preserve viability while expanding the diversity, quantity, and depth of viable futures available to themselves and their descendants.
+
+The fundamental organizational problem is therefore:
+
+> How can a system maintain and expand access to viable futures under constraint and uncertainty?
 
 ---
 
@@ -32,21 +38,23 @@ Complexity accumulates when persistent systems preserve viability while expandin
 
 Persistent systems maintain and expand access to viable futures under constraints.
 
-From this principle follow:
+All major organizational phenomena emerge as mechanisms supporting this objective.
 
-* information
-* prediction
-* control
-* adaptation
-* evolution
-* organization
-* complexity
+Information improves prediction.
 
-All are mechanisms for preserving future access.
+Prediction improves control.
+
+Control preserves viability.
+
+Viability enables persistence.
+
+Persistence enables accumulation.
+
+Accumulation enables increasing complexity.
 
 ---
 
-# Part I: State and Possibility
+# Part I: State, Possibility, and Reachability
 
 ## 1. State
 
@@ -56,14 +64,14 @@ x(t)
 
 A state contains all variables necessary to describe the system at a given time.
 
-Examples:
+Examples include:
 
 * organism physiology
 * software execution
 * institutional configuration
 * technological capability
 
-State changes through time.
+States change through time.
 
 ---
 
@@ -71,7 +79,7 @@ State changes through time.
 
 Every system exists under constraints.
 
-Examples:
+Examples include:
 
 * energy
 * matter
@@ -79,8 +87,11 @@ Examples:
 * memory
 * computation
 * time
+* coordination
 
-Constraints limit possible transitions between states.
+Constraints limit possible state transitions.
+
+No system possesses unlimited resources.
 
 ---
 
@@ -88,26 +99,26 @@ Constraints limit possible transitions between states.
 
 State Space S is the set of all states permitted by physical constraints.
 
-Most states are never occupied.
+Most possible states are never occupied.
 
-Many states are unreachable.
+Many are unreachable.
 
 ---
 
 ## 4. Reachability
 
-From any state x, only some future states can be reached.
+From a state x, only some future states can be reached.
 
-Reachability depends on:
+The reachable set is:
+
+R(x)
+
+Reachability depends upon:
 
 * available resources
 * control capacity
 * available time
 * environmental conditions
-
-The reachable set is:
-
-R(x)
 
 Reachability is always constrained.
 
@@ -119,13 +130,25 @@ Systems move through state space.
 
 A trajectory is a sequence of states through time.
 
-Persistence is a trajectory property rather than a state property.
+Persistence is not a property of a state.
+
+Persistence is a property of trajectories.
 
 ---
 
-# Part II: Viability
+# Part II: Viability and Affordances
 
-## 6. Viability
+## 6. Persistence
+
+A system persists when its organizational process continues through time.
+
+Persistence does not require preservation of material substrate.
+
+Components may change while organizational continuity remains.
+
+---
+
+## 7. Viability
 
 A state is viable if at least one future trajectory remains capable of persistence.
 
@@ -133,23 +156,25 @@ Viability is not survival.
 
 Viability is continued access to survival.
 
+Persistence concerns what is.
+
+Viability concerns what remains possible.
+
 ---
 
-## 7. Viability Region
+## 8. Viability Region
 
 The viability region is the set of all viable states.
 
 V
 
-Outside the viability region persistence becomes impossible.
+Outside V persistence becomes impossible.
 
 ---
 
-## 8. Affordances
+## 9. Affordances
 
 An affordance is a reachable viable future.
-
-Affordances are future possibilities available under existing control.
 
 The affordance set is:
 
@@ -157,20 +182,25 @@ A(x) = R(x) ∩ V
 
 Affordances represent actionable opportunities.
 
+They are futures that can both be reached and support continued persistence.
+
 ---
 
-## 9. Affordance Capacity
+## 10. Affordance Capacity
 
 Affordance capacity measures access to viable futures.
 
 It depends on:
 
-* number of viable futures
+* quantity of viable futures
 * diversity of viable futures
 * time horizon of viability
 * robustness to uncertainty
+* recoverability from disturbance
 
-High affordance capacity implies:
+Affordance capacity represents a system's future freedom of action.
+
+High affordance capacity produces:
 
 * resilience
 * flexibility
@@ -179,28 +209,45 @@ High affordance capacity implies:
 
 ---
 
-# Part III: Information and Models
+## 11. Agency
 
-## 10. Observation
+Agency is the capacity to preserve or expand affordance capacity through action.
 
-Persistent systems observe their environment.
+Agency is not mere action.
 
-Observation generates information about current conditions and future risks.
+Agency is action directed toward maintaining future access.
+
+A rock moves.
+
+An organism acts.
+
+Agency emerges when behavior systematically influences future viability.
+
+---
+
+# Part III: Information, Models, and Intelligence
+
+## 12. Observation
+
+Persistent systems observe relevant aspects of their environment.
+
+Observation generates information about present conditions and future risks.
 
 Without observation, control becomes blind.
 
 ---
 
-## 11. Internal Models
+## 13. Internal Models
 
 Persistent systems maintain models of relevant regularities.
 
-Examples:
+Examples include:
 
 * genomes
 * nervous systems
 * institutions
 * scientific theories
+* machine learning systems
 
 Models need not be explicit.
 
@@ -208,19 +255,19 @@ Models need only improve prediction.
 
 ---
 
-## 12. Prediction
+## 14. Prediction
 
 Prediction estimates future trajectories.
 
-Prediction links information to action.
+Prediction connects information to action.
 
-Better prediction improves the ability to preserve viability.
+Better prediction improves preservation of viability.
 
 ---
 
-## 13. Uncertainty
+## 15. Uncertainty
 
-Future trajectories are not fully known.
+Future trajectories are never fully known.
 
 Persistent systems operate under uncertainty.
 
@@ -230,31 +277,45 @@ Uncertainty limits achievable control.
 
 ---
 
-## 14. Functional Information
+## 16. Functional Information
 
-Information is useful when it improves achievable control.
+Information is functionally significant when it improves achievable control.
 
-Information has value when it changes access to viable futures.
+Information has value when it alters access to viable futures.
 
 Information that cannot influence action has limited organizational significance.
 
 ---
 
-# Part IV: Control
+## 17. Intelligence
 
-## 15. Control
+Intelligence is the ability to discover, evaluate, and realize trajectories that preserve or expand affordance capacity under uncertainty.
 
-Control is the ability to influence future trajectories.
+Intelligence improves:
 
-Control alters which futures become reachable.
+* model quality
+* prediction quality
+* control effectiveness
 
-Control is the mechanism by which systems preserve viability.
+Intelligence is therefore a specialized mechanism for viability preservation.
 
 ---
 
-## 16. Action Domain
+# Part IV: Control
 
-A system can influence only certain variables.
+## 18. Control
+
+Control is the ability to influence future trajectories.
+
+Control changes which futures become reachable.
+
+Control is the mechanism through which systems preserve viability.
+
+---
+
+## 19. Action Domain
+
+Every system can influence only a subset of variables.
 
 The action domain defines available interventions.
 
@@ -262,11 +323,11 @@ No system controls all relevant variables.
 
 ---
 
-## 17. Control Capacity
+## 20. Control Capacity
 
 Control capacity measures the ability to reliably steer trajectories.
 
-Examples:
+Examples include:
 
 * movement
 * planning
@@ -274,15 +335,17 @@ Examples:
 * coordination
 * adaptation
 
-Greater control expands the reachable set.
+Greater control expands reachability.
+
+Expanded reachability enlarges affordance capacity.
 
 ---
 
-## 18. Effective Distance
+## 21. Effective Distance
 
 Distance is measured by transformation cost.
 
-Two states are close when little control is required to move between them.
+States are close when little control is required to move between them.
 
 Control geometry differs from physical geometry.
 
@@ -290,7 +353,7 @@ Control geometry differs from physical geometry.
 
 # Part V: Organization
 
-## 19. Transformations
+## 22. Transformations
 
 Systems operate through transformations.
 
@@ -300,7 +363,7 @@ Transformations alter trajectories.
 
 ---
 
-## 20. Persistent Transformations
+## 23. Persistent Transformations
 
 A transformation becomes organizational when it persists through time.
 
@@ -315,11 +378,11 @@ Organizations are networks of persistent transformations.
 
 ---
 
-## 21. Support Structures
+## 24. Support Structures
 
 Support structures stabilize persistent transformations.
 
-Examples:
+Examples include:
 
 * DNA
 * ecosystems
@@ -328,11 +391,11 @@ Examples:
 * institutions
 * computation
 
-Support structures preserve access to viable futures.
+Support structures preserve affordance capacity across time.
 
 ---
 
-## 22. Organizational Identity
+## 25. Organizational Identity
 
 Identity is persistence of organizational process rather than persistence of material substrate.
 
@@ -340,15 +403,58 @@ Matter changes.
 
 Components change.
 
-Control processes persist.
+Processes endure.
 
 Organizational continuity defines identity.
 
 ---
 
-# Part VI: Dynamics
+# Part VI: Cooperation and Scaling
 
-## 23. Maintenance
+## 26. Coordination
+
+Multiple control processes can coordinate their actions.
+
+Coordination permits trajectories that no isolated system could achieve.
+
+---
+
+## 27. Cooperation
+
+Cooperation occurs when coordinated systems increase collective affordance capacity.
+
+Cooperation persists when all participants gain greater expected future access than they could obtain independently.
+
+---
+
+## 28. Collective Agency
+
+Organizations, markets, governments, scientific communities, and civilizations are forms of collective agency.
+
+Collective agency emerges when coordination expands affordance capacity beyond individual limits.
+
+---
+
+## 29. Infrastructure
+
+Infrastructure consists of persistent support structures that store previously acquired control.
+
+Examples include:
+
+* roads
+* languages
+* institutions
+* scientific knowledge
+* energy systems
+* digital networks
+
+Infrastructure preserves affordance capacity across generations.
+
+---
+
+# Part VII: Dynamics
+
+## 30. Maintenance
 
 Maintenance preserves viability.
 
@@ -356,11 +462,11 @@ Maintenance is continual correction away from non-viable trajectories.
 
 ---
 
-## 24. Degradation
+## 31. Degradation
 
-Degradation reduces future options.
+Degradation reduces affordance capacity.
 
-Examples:
+Examples include:
 
 * entropy
 * wear
@@ -368,11 +474,11 @@ Examples:
 * depletion
 * institutional decay
 
-Degradation shrinks affordance capacity.
+Degradation shrinks future possibilities.
 
 ---
 
-## 25. Failure
+## 32. Failure
 
 Failure occurs when viable futures are no longer reachable.
 
@@ -380,7 +486,7 @@ Failure is loss of future access.
 
 ---
 
-## 26. Replication
+## 33. Replication
 
 Replication creates additional persistent control processes.
 
@@ -390,13 +496,13 @@ Replication expands persistence across time and space.
 
 ---
 
-# Part VII: Constraint Expansion
+# Part VIII: Constraint Expansion and Growth
 
-## 27. Bottlenecks
+## 34. Bottlenecks
 
-The narrowest constraint often dominates future possibility.
+The narrowest constraint often dominates future possibilities.
 
-Examples:
+Examples include:
 
 * energy
 * memory
@@ -408,114 +514,109 @@ Bottlenecks limit affordance capacity.
 
 ---
 
-## 28. Constraint Expansion
+## 35. Constraint Expansion
 
-Persistent systems often expand limiting constraints.
+Persistent systems frequently expand limiting constraints.
 
-Examples:
+Examples include:
 
-* lungs expand oxygen access
-* agriculture expands food access
-* writing expands memory
-* markets expand coordination
-* computation expands cognition
+* lungs expanding oxygen access
+* agriculture expanding food access
+* writing expanding memory
+* markets expanding coordination
+* computation expanding cognition
 
-Constraint expansion enlarges viable future access.
-
----
-
-## 29. Infrastructure
-
-Infrastructure consists of persistent support structures that expand affordance capacity.
-
-Infrastructure accumulates across generations.
-
-Examples:
-
-* roads
-* languages
-* institutions
-* scientific knowledge
-* energy systems
-* digital networks
-
-Infrastructure stores previously acquired control.
+Constraint expansion enlarges affordance capacity.
 
 ---
 
-# Part VIII: Selection and Evolution
+## 36. Stored Control
 
-## 30. Selection
+Tools, infrastructure, institutions, and knowledge embody previously acquired control.
+
+Stored control allows future generations to begin from expanded affordance sets rather than from first principles.
+
+---
+
+## 37. Development
+
+Development occurs when accumulated support structures and stored control increase accessible affordance capacity through time.
+
+---
+
+# Part IX: Selection and Evolution
+
+## 38. Selection
 
 Persistent systems compete for limited constraints.
 
-Not all systems can persist simultaneously.
-
-Selection occurs whenever persistence is differential.
+Whenever persistence differs among alternatives, selection occurs.
 
 ---
 
-## 31. Adaptive Advantage
+## 39. Adaptive Advantage
 
-Advantage arises from:
+Adaptive advantage arises from superior ability to preserve or expand affordance capacity.
 
-* greater control
+Sources include:
+
 * better prediction
-* larger affordance capacity
+* greater control
 * stronger support structures
-
-Adaptive advantage increases expected persistence.
+* improved coordination
+* broader reachability
 
 ---
 
-## 32. Evolution
+## 40. Evolution
 
 Evolution is differential persistence among replicating control processes.
 
-Evolutionary systems may differ in:
-
-* substrate
-* inheritance
-* fidelity
-* generation time
-
-Yet all share the same underlying principle.
-
-Biological evolution, cultural evolution, institutional evolution, and technological evolution are special cases of differential persistence.
+Biological evolution, cultural evolution, institutional evolution, and technological evolution are special cases of the same underlying dynamic.
 
 ---
 
-# Part IX: Complexity
+# Part X: Complexity
 
-## 33. Complexity
+## 41. Complexity
 
-Complexity is organized capacity for viable transformation.
+Complexity is organized capacity for preserving and expanding affordance capacity.
 
 Complex systems possess:
 
-* diverse internal models
+* rich internal models
 * layered support structures
 * broad control capacity
+* extensive coordination
 * large affordance capacity
 
-Complexity is not mere information.
+Complexity is not information alone.
 
-Complexity is information organized for persistence.
+Complexity is information organized for viability.
 
 ---
 
-## 34. Open-Ended Accumulation
+## 42. Open-Ended Accumulation
 
 Complexity accumulates when systems:
 
 * preserve viability
 * preserve control
 * preserve information
+* preserve coordination
 * expand affordance capacity
 * relax bottlenecks
 * transmit support structures
 
 while remaining persistent.
+
+---
+
+## 43. Civilizational Growth
+
+Civilizations grow when accumulated control, knowledge, infrastructure, and coordination continually expand affordance capacity faster than degradation removes it.
+
+Civilizational decline occurs when degradation exceeds expansion.
 
 ---
 
@@ -525,14 +626,22 @@ Persistent systems are control processes operating within constrained possibilit
 
 Observation generates information.
 
-Information improves prediction.
+Information improves models.
+
+Models improve prediction.
 
 Prediction improves control.
 
 Control preserves viability.
 
-Viability preserves persistence.
+Viability enables persistence.
 
-Persistent systems accumulate complexity by expanding access to reachable viable futures while maintaining the conditions necessary for their continued existence.
+Persistence enables accumulation.
 
-Access to viable futures is the fundamental quantity from which organization, adaptation, evolution, intelligence, and civilization emerge.
+Accumulation expands affordance capacity.
+
+Expanding affordance capacity enables increasing complexity.
+
+Organization, intelligence, adaptation, evolution, technology, and civilization are all manifestations of the same underlying process:
+
+the preservation and expansion of access to viable futures.
